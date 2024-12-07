@@ -1,5 +1,6 @@
 # Task-Tracker-CLI
 A CLI Program to manage task
+
 Add a Task: Add a new task with a description.
 Update a Task: Update the description of an existing task.
 Delete a Task: Remove a task by its ID.
@@ -11,7 +12,7 @@ javac TaskCLIApp.java Task.java TaskManager.java Status.java
 
 2. Then go to the out/targter-classes 
 and run below:
-----------------------------------------------------------------------------
+
 # Adding a new task
 java TaskCLI add "Buy groceries"
 # Output: Task added successfully (ID: 1)
